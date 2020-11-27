@@ -7,5 +7,6 @@ public class git0720text {
         System.out.println("111");
         System.out.println("222");
         System.out.println("hot-fix");
+        System.out.println("传远程仓库1");
     }
 }
